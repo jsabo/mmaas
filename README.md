@@ -1,10 +1,10 @@
 # mmaas
 Middle Management as a Service (MMaaS)
 
+The defining characteristic of this system is to never offer anything concrete or actionable, only vague suggestions.
+
 ## Goals
 Replace useless middle management with a series of small functions.
-
-The defining characteristic of this system is to never offer anything concrete or actionable, only vague suggestions.
 
 ## Ideas
 
