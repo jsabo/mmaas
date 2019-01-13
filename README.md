@@ -9,6 +9,6 @@ The defining characteristic of this system is to never offer anything concrete o
 ## Ideas
 
 * Scan channel for question marks and reply with “we should have a wiki about that”.
-* If you see lots of people posting one after another respond with “let’s put a pin in this and have a proper meeting” or “Let’s not design this in slack”
+* If you see lots of people posting one after another respond with “let’s put a pin in this and have a proper meeting” or “Let’s not design this in Slack”
 * Anytime somebody responds to the manager directly, tag another person in the channel and ask them if they can “weigh in on this”.
 
